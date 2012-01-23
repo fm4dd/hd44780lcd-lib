@@ -10,7 +10,7 @@
  datalines on port A while RS, E and RW are connected to Port B on B2, B3
  and B4. The library supports the the display sizes 16x2 and 20x4.
 
- HD44780-compatible identifies a group of icharacter-based LCD displays with
+ HD44780-compatible identifies a group of character-based LCD displays with
  a Hitachi HD44780-like controller chip, providing  a parallel port. They are
  typically used to interface with embedded systems such as 8-bit single board
  computers with a Rabbit CPU from digi.com. They come in a variety of sizes
