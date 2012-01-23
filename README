@@ -18,7 +18,11 @@
  and four line versions available, and most of them have backlighting.
 
  This library was written and tested under Dynamic C Version 9.21 and 10.05
- with an RCM 3720 Ethernet Development Kit and a RCM 4010 development kit.
+ with an RCM 3720 Ethernet development kit and a RCM 4010 development kit.
+ These systems were formerly known as products made by Rabbit Semiconductor.
+
+ For more information about those, see Digi's website for embedded solutions
+ at http://www.digi.com/products/wireless-wired-embedded-solutions/
 
  License: I make the library and examples available under the terms of the
  LGPL version 3, which is particularly suited for libraries.
