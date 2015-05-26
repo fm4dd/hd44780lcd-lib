@@ -1,5 +1,5 @@
 /***************************************************************************/
-/* Rabbit_RCM3720_to_HD44780LCD_example1.c   http://www.frank4dd.com/howto */
+/* Rabbit_RCM3720_to_HD44780LCD_example1.c    http://fm4dd.com/electronics */
 /*                                                                         */
 /* Written for a 16x2 HD44780 compatible LCD display on a Rabbit RCM3720   */
 /* Ethernet Development Kit. Connected in 8bit mode with datalines going   */
