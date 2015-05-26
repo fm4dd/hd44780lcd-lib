@@ -1,4 +1,4 @@
- * Rabbit 3000/4000 HD44780LCD.LIB V1.1    http://www.frank4dd.com/howto   *
+ * Rabbit 3000/4000 HD44780LCD.LIB V1.1    http://fm4dd.com/electronics/   *
  ===========================================================================
  Frank4dd, @2009-01-09
  public[at]frank4dd[dot]com
@@ -37,5 +37,5 @@
 
  Additional documentation and detailled usage examples are online:
 
- http://www.frank4dd.com/howto/rabbit/hd44780lcd-to-rabbit.htm
- http://www.frank4dd.com/howto/rabbit/hd44780lcd-to-rabbit-rcm4010.htm
+http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit.htm
+http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit-rcm4010.htm
