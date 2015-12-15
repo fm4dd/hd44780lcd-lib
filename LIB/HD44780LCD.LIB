@@ -10,6 +10,7 @@
  *                                                                         *
  *                                                   Frank4dd, @2009-01-09 *
  *                                              public[at]frank4dd[dot]com *
+ * vim: set filetype=c:                                                    *
  * END DESCRIPTION *********************************************************/
 
 /*** BeginHeader SetPortAOut, MsDelay, pause, ByteSplit, LcdWrite, Lcd_Config,
