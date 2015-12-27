@@ -1,4 +1,4 @@
-### Rabbit 3000/4000 HD44780LCD.LIB V1.1
+## Rabbit 3000/4000 HD44780LCD.LIB V1.1
 
 http://fm4dd.com/electronics/
 
