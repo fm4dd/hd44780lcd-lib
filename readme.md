@@ -2,8 +2,9 @@
 
 http://fm4dd.com/electronics/
 
- Frank4dd, @2009-01-09
- public[at]frank4dd[dot]com
+![ScreenShot](http://fm4dd.com/electronics/rabbit/images/rcm4010-testprogram8.png)
+
+ Frank4dd, @2009-01-09 public[at]frank4dd[dot]com
 
  This library has been written for HD44780-compatible LCD displays connected
  to Rabbit 3000 and 4000 Modules. It provides high-level functions to show
@@ -42,5 +43,3 @@ http://fm4dd.com/electronics/
 http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit.htm
 
 http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit-rcm4010.htm
-
-![ScreenShot](http://fm4dd.com/electronics/rabbit/images/rcm4010-testprogram8.png)
