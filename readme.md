@@ -27,18 +27,22 @@ http://fm4dd.com/electronics/
  For more information about those, see Digi's website for embedded solutions
  at http://www.digi.com/products/wireless-wired-embedded-solutions/
 
- License: I make the library and examples available under the terms of the
+### License: 
+
+I make the library and examples available under the terms of the
  LGPL version 3, which is particularly suited for libraries.
 
- Installation under Dynamic C Version 9.xx: Place the library file into
+### Installation
+
+* Dynamic C Version 9.xx: Place the library file into
  C:\DCRABBIT_9.21\Lib\Displays. Now add the library to Dynamic C's library
  inclusion list. This list is a text file C:\DCRABBIT_9.21\Lib.dir.
 
- Installation under Dynamic C Version 10.xx: This compiler version now
+* Dynamic C Version 10.xx: This compiler version now
  automatically searches through the standard library path. Place the 
  library file into it, and next compile time it should be found.
 
- Additional documentation and detailled usage examples are online:
+### Additional documentation
 
 http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit.htm
 
