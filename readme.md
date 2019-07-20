@@ -44,6 +44,6 @@ I make the library and examples available under the terms of the
 
 ### Additional documentation
 
-http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit.htm
+http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit.shtm
 
-http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit-rcm4010.htm
+http://fm4dd.com/electronics/rabbit/hd44780lcd-to-rabbit-rcm4010.shtm
