@@ -2,7 +2,7 @@
 
 http://fm4dd.com/electronics/
 
-![ScreenShot](http://fm4dd.com/electronics/rabbit/images/rcm4010-testprogram8.png)
+![ScreenShot](https://fpga.fm4dd.com/assets/images/rabbit/rcm3720-testprogram8.png)
 
  Frank4dd, @2009-01-09 public[at]frank4dd[dot]com
 
